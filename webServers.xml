@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dcc7cbbf-46db-4178-9b8d-911d43d4e781" name="Local" url="http://loc.dr2.dk">
+        <fileTransfer mountedRoot="$USER_HOME$/projects/drdk/dr2" accessType="MOUNT" />
+      </webServer>
+      <webServer id="15f02596-f482-4727-8894-d339f106aa58" name="Vagrant" url="http://loc.dr.dk">
+        <fileTransfer mountedRoot="$USER_HOME$/projects/drdk/dr/docroot" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
