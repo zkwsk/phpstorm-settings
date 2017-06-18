@@ -8,11 +8,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Console.Execute" />
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
@@ -20,7 +15,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
-  <action id="EditorChooseLookupItem" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift meta alt x" />
   </action>
@@ -64,7 +58,6 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="ctrl meta alt p" />
   </action>
-  <action id="Images.Thumbnails.EnterAction" />
   <action id="IncrementalSearch" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="meta j" />
@@ -72,9 +65,6 @@
   <action id="IntroduceParameter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta alt #10000a8" />
-  </action>
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt a_with_ring_above" />
